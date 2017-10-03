@@ -1,16 +1,16 @@
 Tarea 2
 ======
 
-#####Código:
+Código:
 - 20140809
 
-#####Alumno:
+Alumno:
 - Rodrigo Mejía
 
-#####Usuario github
+Usuario github
 - Jagerod
 
-#####Instrucciones:
+Instrucciones:
 - El entregable está dividido por preguntas: siendo el primero un archivo txt con los principios 
 SOLID, y los siguientes son archivos .py con las modificaciones pedidas
 por cada pregunta.
